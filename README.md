@@ -3,6 +3,7 @@
 WhatsApp App Redesign
 
 ## Getting Started
+![light-bulb](https://github.com/user-attachments/assets/1c87fb17-9cf5-426e-980f-02ff4f5bc79f)
 
 This project is a starting point for a Flutter application.
 
